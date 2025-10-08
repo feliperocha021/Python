@@ -1,0 +1,5 @@
+read(): read all the content at once.
+
+readline(): read one line at a time.
+
+readlines(): reads all lines and returns a list.
